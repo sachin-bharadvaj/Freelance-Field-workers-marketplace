@@ -4,22 +4,6 @@ A web-based portal to manage **freelance field workers** for various services, b
 
 ---
 
-## 📸 Project Preview
-
-![Project Preview](https://github.com/sachin-bharadvaj/Freelance-Field-workers-marketplace/blob/main/Screenshot_2025-05-08_08-41-35.png)
-
----
-
-## 🚀 Features
-
-- 🔐 Admin login and session management  
-- 👷 Add and manage freelance workers  
-- 📦 Track and fulfill service orders  
-- 💬 Collect and view customer feedback  
-- 📊 Stylish, responsive UI with Bootstrap & Icons  
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="left">
@@ -35,16 +19,35 @@ A web-based portal to manage **freelance field workers** for various services, b
 
 ---
 
+## 🚀 Features
+
+- 🔐 Admin login and session management  
+- 👷 Add and manage freelance workers  
+- 📦 Track and fulfill service orders  
+- 💬 Collect and view customer feedback  
+- 📊 Stylish, responsive UI with Bootstrap & Icons  
+
+---
+
+## 📸 Project Preview
+
+![Project Preview](https://github.com/sachin-bharadvaj/Freelance-Field-workers-marketplace/blob/main/Screenshot_2025-05-08_08-41-35.png)
+
+---
+
 ## 🚀 How to Run
 
 Follow these steps to set up and run the project locally:
 
 ---
 
-
 ## 📦 Clone the Repository
 
 ```bash
 git clone https://github.com/sachin-bharadvaj/Freelance-Field-workers-marketplace
 ```
-
+### Authors
+Vuduthala Sachin Bharadvaj
+Pulluri Aravind
+Singireddy Suryanivas Reddy
+Tavutu Vishnu Vardhan Reddy
