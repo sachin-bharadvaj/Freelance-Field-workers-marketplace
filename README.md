@@ -35,12 +35,6 @@ A web-based portal to manage **freelance field workers** for various services, b
 
 ---
 
-## 🚀 How to Run
-
-Follow these steps to set up and run the project locally:
-
----
-
 ## 📦 Clone the Repository
 
 ```bash
