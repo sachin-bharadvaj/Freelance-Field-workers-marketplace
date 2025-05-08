@@ -41,7 +41,7 @@ A web-based portal to manage **freelance field workers** for various services, b
 git clone https://github.com/sachin-bharadvaj/Freelance-Field-workers-marketplace
 ```
 ### Authors
-Vuduthala Sachin Bharadvaj
-Pulluri Aravind
-Singireddy Suryanivas Reddy
+Vuduthala Sachin Bharadvaj <br>
+Pulluri Aravind <br>
+Singireddy Suryanivas Reddy <br>
 Tavutu Vishnu Vardhan Reddy
